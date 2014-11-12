@@ -31,7 +31,6 @@ class LibertyDatabase
                  :mysqlport => 3306,
                  :mysqldb => "LibertyFile",
                  :mysqluser => "guest",
-  }   
             :mysqlpass => "liberty" }
     options = defaults.merge(options)
 
